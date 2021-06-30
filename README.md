@@ -16,10 +16,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 My motivation for this project was to complete the 'Write a Data Science Blog Post' for the Data Scientist Nanodegree Program.  For this project I was interested in looking at TMDb (The Movie Database) data to better understand:
 1. What are the top movies by popularity?
 2. What are the top movies by revenue?
-3. Are popularity and revenue correlated?
-4. Which movies made the most profit?
-5. Which movies went over budget the most?
-6. What are the longest and shortest movies?
+3. Is there any correlation between popularity and revenue or voting average?
+4. What are the longest and shortest movies runtimes?
+6. Does runtime or affect the popularity or voting average of a movie?
 
 ## File Descriptions <a name="file_descriptions"></a>
 This repository contains a Jupyter Notebook (TMDb_Movie_Exploration.ipynb) that showcases the work related to the above questions. The notebook is an exploratory analysis of the data to answer the questions above. Markdown cells were used to assist in walking through the thought process for individual steps.
