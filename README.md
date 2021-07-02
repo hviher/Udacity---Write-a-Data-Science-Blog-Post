@@ -26,8 +26,8 @@ This repository contains a Jupyter Notebook (TMDb_Movie_Exploration.ipynb) that 
 The file tmdb_movies_data.csv contains information on over 10,000 movies obtained from [Kaggle](https://www.kaggle.com/juzershakir/tmdb-movies-dataset).
 
 ## Findings <a name="findings"></a>
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@hrviher/what-should-we-watch-tonight-3f33c5e4954a).
 
 ## Licensing, Authors, Acknowledgments <a name="licensing"></a>
-Must give credit to TMDb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Otherwise, feel free to use the code here as you would like!
+Must give credit to TMDb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/juzershakir/tmdb-movies-dataset). Otherwise, feel free to use the code here as you would like!
 
